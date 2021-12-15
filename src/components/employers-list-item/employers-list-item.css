@@ -59,6 +59,9 @@
 .list-group-item.increase .list-group-item-input {
   color: #e09f3e;
 }
+.red {
+  color: red;
+}
 
 .list-group-item.increase .btn-star {
   color: #aeaeae;
